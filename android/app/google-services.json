@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193404731217",
+    "project_id": "koolhabbit",
+    "storage_bucket": "koolhabbit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193404731217:android:a0c50537605de78cf31d70",
+        "android_client_info": {
+          "package_name": "com.example.koolhabbit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193404731217-fs0uvmb7sabha47pir8e0vlntj9jmq1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfEyCAiOY0J-WvsKFh4N75JnkWbXtrlW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193404731217-fs0uvmb7sabha47pir8e0vlntj9jmq1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
